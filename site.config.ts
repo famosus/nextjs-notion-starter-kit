@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Notion Array',
-  domain: 'https://notionarray.com/blog',
+  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'Morphisto',
 
   // open graph metadata (optional)
